@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 디자인패턴, SOLID원칙을 적용한 지속적으로 활용가능한 코드
 - 서비스 제공을 원활하게 하기 위한 CI/CD
   <b>에 대한 공부를 하는 중이고</b>
-
+<br><br><br>
 - 사용자의 눈을 사로잡을 인터랙션 웹 디자인
 - 프론트엔드 최적화
 - DB튜닝
