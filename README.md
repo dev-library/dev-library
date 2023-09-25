@@ -1,13 +1,3 @@
-### Hi there 👋
-
-# #띄어쓰기 문장을 적으면 #하나는 < h1>태그와 같은 역할을
-###### #6개 한칸띄우고 문장을 적으면 < h6>같은 역할을 합니다.
-
-<p>
-  html에서 사용하던 문법을 이용해 꾸며줄 수 있습니다.  
-</p>
-<b>이모지도 써집니다.</b>
-😊😍
 <!--
 **dev-library/dev-library** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,3 +12,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## devrary의 깃허브입니다. 반갑습니다.
+
+### 저는요
+
+- 대규모 트래픽 처리를 위한 아키텍처 설계
+- 동시성 제어를 위한 지식
+- 디자인패턴, SOLID원칙을 적용한 지속적으로 활용가능한 코드
+- 서비스 제공을 원활하게 하기 위한 CI/CD
+  <b>에 대한 공부를 하는 중이고</b>
+
+- 사용자의 눈을 사로잡을 인터랙션 웹 디자인
+- 프론트엔드 최적화
+- DB튜닝
+<b>을 통해 하나의 웹 서비스를 구성하는데 필요한 모든 지식을 얻는것이 목표입니다.</b>
+
+
+
+
