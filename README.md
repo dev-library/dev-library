@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <br><br><br>
 - 사용자의 눈을 사로잡을 인터랙션 웹 디자인
 - 프론트엔드 최적화
-- DB튜닝
+- DB튜닝<br>
 <b>학습을 통해 하나의 웹 서비스를 구성하는데 필요한 모든 지식을 얻는것이 목표입니다.</b>
 
 
